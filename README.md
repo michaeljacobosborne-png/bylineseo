@@ -1,6 +1,7 @@
 Byline
 
 AI content platform for SEO and content teams. Scores every piece across SEO, readability, GEO, and AEO. Built for practitioners who need content that performs in both traditional search and AI answer engines.
+
 Features
 
 Editorial Agent — flags weak sections and rewrites in one click
